@@ -3,30 +3,38 @@
   <br/>
 </div>
 
----
+
 
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,python,mysql,firebase,git,github,postman,cisco" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind" />
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=python,mysql,firebase,git,github,postman,cisco" />
 
 </div>
 
----
 
 <h2 align="center">Connect</h2>
 
 <div align="center">
-  <a href="mailto:adrian.comi0516@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0077b6?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="mailto:adrian.comia0516@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00b4d8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00b4d8" />
+
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00b4d8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://your-portfolio-link.com"> 
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00b4d8" /> 
+  </a>
+
 </div>
 
----
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -37,7 +45,7 @@
   <img height="165" src="https://streak-stats.demolab.com/?user=adriancomia&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&stroke=00b4d8&currStreakNum=c9c9c9&sideNums=c9c9c9&currStreakLabel=00b4d8&sideLabels=c9c9c9&dates=c9c9c9" alt="GitHub Streak" />
 </div>
 
----
+
 
 <h2 align="center">Activity</h2>
 
