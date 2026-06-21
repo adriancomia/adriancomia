@@ -13,27 +13,6 @@
   <img src="https://skillicons.dev/icons?i=python,mysql,firebase,git,github,postman" />
   <br/>
 
-</div>
-
-
-</div>
-
-
-<h2 align="center">Connect</h2>
-
-<div align="center">
-
-  <a href="mailto:adrian.comia0516@gmail.com?subject=GitHub%20Profile">
-    <img src="https://img.shields.io/badge/Email-00b4d8?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://your-portfolio-link.com"> 
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00b4d8" /> 
-  </a>
-
-</div>
-
-
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
