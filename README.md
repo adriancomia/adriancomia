@@ -23,12 +23,8 @@
 
 <div align="center">
 
-  <a href="mailto:adrian.comia0516@gmail.com">
+  <a href="mailto:adrian.comia0516@gmail.com?subject=GitHub%20Profile">
     <img src="https://img.shields.io/badge/Email-00b4d8?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00b4d8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://your-portfolio-link.com"> 
