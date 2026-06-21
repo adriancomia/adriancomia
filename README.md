@@ -1,8 +1,14 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9lc2RtYzM0MGdqMDhiM2M1YThmNWN3MWt4aXdsem5zZ3IwcjZ6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/65UnvXXQQLH9hPkyzh/giphy.gif" alt="Profile GIF" width="240" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9lc2RtYzM0MGdqMDhiM2M1YThmNWN3MWt4aXdsem5zZ3IwcjZ6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/65UnvXXQQLH9hPkyzh/giphy.gif" alt="Profile GIF" width="400" />
   <br/>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,18&height=5"/>
+</p>
+
 <h2 align="center">Tech Stack</h2>
+
 
 <div align="center">
 
@@ -23,7 +29,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0077b6&height=6"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,18&height=5"/>
 </p>
 
 <h2 align="center">Connect</h2>
@@ -38,7 +44,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0077b6,000000&height=6"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,18&height=5"/>
 </p>
 
 <h2 align="center">GitHub Stats</h2>
@@ -51,7 +57,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0077b6,000000&height=6"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,18&height=5"/>
 </p>
 
 <h2 align="center">Activity</h2>
