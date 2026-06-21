@@ -12,7 +12,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind" />
   <br/>
 
-  <img src="https://skillicons.dev/icons?i=python,mysql,firebase,git,github,postman,cisco" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,firebase,git,github,postman" />
+
+  <img src="https://cdn.simpleicons.org/cisco/00b4d8" width="48" />
+
 
 </div>
 
