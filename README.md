@@ -3,9 +3,7 @@
   <br/>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,18&height=5"/>
-</p>
+---
 
 <h2 align="center">Tech Stack</h2>
 
@@ -28,9 +26,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,18&height=5"/>
-</p>
+---
 
 <h2 align="center">Connect</h2>
 
@@ -43,9 +39,7 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,18&height=5"/>
-</p>
+---
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -56,9 +50,7 @@
   <img height="165" src="https://streak-stats.demolab.com/?user=adriancomia&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&stroke=00b4d8&currStreakNum=c9c9c9&sideNums=c9c9c9&currStreakLabel=00b4d8&sideLabels=c9c9c9&dates=c9c9c9" alt="GitHub Streak" />
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,18&height=5"/>
-</p>
+---
 
 <h2 align="center">Activity</h2>
 
