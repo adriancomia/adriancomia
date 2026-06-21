@@ -13,14 +13,6 @@
 
 </div>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-111111?style=for-the-badge&logo=cisco&logoColor=00b4d8" />
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=00b4d8"/>
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00b4d8" />
-
-</div>
-
 ---
 
 <h2 align="center">Connect</h2>
