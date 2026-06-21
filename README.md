@@ -3,34 +3,18 @@
   <br/>
 </div>
 
-
-
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
-<h2 align="center">Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind" />
+  <br/>
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-
-  <img style="width:48px;height:48px;background:#0d1117;padding:8px;border-radius:12px" src="https://skillicons.dev/icons?i=html" />
-  <img style="width:48px;height:48px;background:#0d1117;padding:8px;border-radius:12px" src="https://skillicons.dev/icons?i=css" />
-  <img style="width:48px;height:48px;background:#0d1117;padding:8px;border-radius:12px" src="https://skillicons.dev/icons?i=js" />
-  <img style="width:48px;height:48px;background:#0d1117;padding:8px;border-radius:12px" src="https://skillicons.dev/icons?i=react" />
-  <img style="width:48px;height:48px;background:#0d1117;padding:8px;border-radius:12px" src="https://skillicons.dev/icons?i=nextjs" />
-  <img style="width:48px;height:48px;background:#0d1117;padding:8px;border-radius:12px" src="https://skillicons.dev/icons?i=nodejs" />
-  <img style="width:48px;height:48px;background:#0d1117;padding:8px;border-radius:12px" src="https://skillicons.dev/icons?i=tailwind" />
-
-  <img style="width:48px;height:48px;background:#0d1117;padding:8px;border-radius:12px" src="https://skillicons.dev/icons?i=python" />
-  <img style="width:48px;height:48px;background:#0d1117;padding:8px;border-radius:12px" src="https://skillicons.dev/icons?i=mysql" />
-  <img style="width:48px;height:48px;background:#0d1117;padding:8px;border-radius:12px" src="https://skillicons.dev/icons?i=firebase" />
-  <img style="width:48px;height:48px;background:#0d1117;padding:8px;border-radius:12px" src="https://skillicons.dev/icons?i=git" />
-  <img style="width:48px;height:48px;background:#0d1117;padding:8px;border-radius:12px" src="https://skillicons.dev/icons?i=github" />
-  <img style="width:48px;height:48px;background:#0d1117;padding:8px;border-radius:12px" src="https://skillicons.dev/icons?i=postman" />
-
-  <img style="width:48px;height:48px;background:#0d1117;padding:8px;border-radius:12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,firebase,git,github,postman" />
+  <br/>
 
 </div>
+
 
 </div>
 
