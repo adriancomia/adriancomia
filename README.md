@@ -7,16 +7,11 @@
 
 <h2 align="center">Tech Stack</h2>
 
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=00b4d8" />
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=00b4d8" />
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=00b4d8" />
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=00b4d8" />
-<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=00b4d8" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=00b4d8" />
-<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=00b4d8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,python,mysql,firebase,git,github,postman,cisco" />
+
+</div>
 
 <br/>
 
