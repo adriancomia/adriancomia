@@ -29,7 +29,7 @@
 <h2 align="center">Connect</h2>
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:adrian.comi0516@gmail.com">
     <img src="https://img.shields.io/badge/Email-0077b6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio-link.com">
