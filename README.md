@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,tailwind" />
   <br/>
 
   <img src="https://skillicons.dev/icons?i=python,mysql,firebase,git,github,postman" />
@@ -16,7 +16,6 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adriancomia&show_icons=true&title_color=00b4d8&text_color=c9c9c9&icon_color=00b4d8&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriancomia&layout=compact&title_color=00b4d8&text_color=c9c9c9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
   <br/>
   <img height="165" src="https://streak-stats.demolab.com/?user=adriancomia&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&stroke=00b4d8&currStreakNum=c9c9c9&sideNums=c9c9c9&currStreakLabel=00b4d8&sideLabels=c9c9c9&dates=c9c9c9" alt="GitHub Streak" />
